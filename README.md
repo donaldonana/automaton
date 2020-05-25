@@ -1,2 +1,0 @@
-# automaton
-automaton in python

@@ -24,7 +24,7 @@ class Alphabet(Lexeme):
 		Lexeme.__init__(self,"n",valeur)
 	def suffixe(self, pile):
 		global n
-		print(n)
+		# print(n)
 		pile.append(base(self.valeur,n))
 		n = n + 1
 

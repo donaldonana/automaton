@@ -56,7 +56,7 @@ while boucle:
 			for lex in lexemes:
 				valeurs.append(lex.valeur)
 				
-			print(valeurs)
+			# print(valeurs)
 
 			C = eval_suffixe(lexemes)
 			print(C)
